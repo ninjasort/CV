@@ -11,6 +11,13 @@ Senior digital marketing professional with **10 years of creative and technical 
 
 ### Employment History
 
+**Digital Marketing & Sales Consultant - NextLaunch - June 2021 — Present**
+
+- Partnered with 10+ SaaS / consulting companies to create advertising campaigns and generate 3-5x monthly sales
+- Created marketing content (emails, ads, landing pages) to support client campaigns
+- Built and managed custom afqliate programs
+- Managed outreach and sales process for ac€uiring consulting clients
+
 **Digital Marketing - Oceanbeat - Ibiza - May 2023 — August 2023**
 
 - Planned and designed marketing roadmap and strategies
@@ -46,13 +53,6 @@ _Appointment Setting - Lead Generation - Lead Nurturing_
 - Managed pipeline and nutured prospects
 - Handled administration and sales assets
 - Introduced automated workflow and scalable email sending with Sendgrid
-
-**Marketing Consultant - NextLaunch - June 2021 — Present**
-
-- Partnered with 10+ SaaS / consulting companies to create advertising campaigns and generate 3-5x monthly sales
-- Created marketing content (emails, ads, landing pages) to support client campaigns
-- Built and managed custom afqliate programs
-- Managed outreach and sales process for ac€uiring consulting clients
 
 **Marketing Specialist - Creditstar - Tallinn, Estonia - November 2021 — May 2022**
 
