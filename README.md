@@ -1,4 +1,4 @@
-# Digital Marketing Experience
+# Digital Marketing & Sales Experience
 
 Senior digital marketing professional with **10 years of creative and technical experience**. Generated a combined $5M+ in revenue for multiple SaaS and E-commerce companies.
 
