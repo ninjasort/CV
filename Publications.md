@@ -1,4 +1,9 @@
-## Copywriting Examples
+## Publications
+
+- https://hub.packtpub.com/author/cameron_
+- https://revealbot.com/blog/author/cameron
+- https://webflow.com/blog/authors/cameron-roe
+- https://www.nextlaunch.promo/blogs/case-studies
 
 **Webflow**
 
@@ -18,3 +23,7 @@
 **PersistIQ**
 
 - https://blog.persistiq.com/how-to-prospect-using-linkedin-personalized-email-campaigns
+
+**Envatotuts+**
+
+- https://music.tutsplus.com/quick-tip-how-to-create-a-dubstep-wobble-bass-with-subtractor--audio-6330t
