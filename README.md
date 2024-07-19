@@ -4,10 +4,10 @@ Senior digital marketing professional with **10 years of creative and technical 
 
 ### Contact information
 
-**Location:** San Francisco, CA
-**Email:** hello@cameronroe.com
-**Phone:** US: +1 917 830 4812 | ES: +34 691 697 685
-**LinkedIn:** https://www.linkedin.com/in/cameronroe
+- **Location:** San Francisco, CA
+- **Email:** hello@cameronroe.com
+- **Phone:** US: +1 917 830 4812 | ES: +34 691 697 685
+- **LinkedIn:** https://www.linkedin.com/in/cameronroe
 
 ### Employment History
 
